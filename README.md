@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This is a fully responsive and interac
 ✅ Interactive UI with smooth animations  
 ✅ Showcases my skills, projects, and resume  
 ✅ Contact form for easy communication  
-✅ Built with **HTML, CSS, JavaScript**  
+✅ Built with HTML, CSS, JavaScript
 
 ---
 
@@ -24,9 +24,7 @@ Welcome to my personal portfolio website! This is a fully responsive and interac
 
 📂 Project Structure  
 /portfolio │── index.html # Home Page
-│── about.html # About Me Page
-│── projects.html # Projects Showcase
-│── contact.html # Contact Form
+│── index.html
 │── assets/ # Images, Icons, Fonts
 │── css/ # Stylesheets
 │── js/ # JavaScript Files
