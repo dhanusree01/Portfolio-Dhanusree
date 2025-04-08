@@ -193,19 +193,19 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: crimson;
+    color: rgb(97, 110, 127);
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: crimson;
+    background: rgb(97, 110, 127);
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid rgb(97, 110, 127);
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
@@ -409,11 +409,11 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 .teams .carousel .card img{
-    height: 150px;
-    width: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 5px solid crimson;
+    height: 250px;
+    width: 250px;
+    object-fit: contain;
+    /* border-radius: 50%; */
+    border: none;
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
